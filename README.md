@@ -1,6 +1,6 @@
-# myapp
+# meu app
 
-A new Flutter project.
+Programa desenvolvido como atividade do módulo 2 do curso programação web.
 
 ## Getting Started
 
